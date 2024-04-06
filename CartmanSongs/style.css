@@ -1,0 +1,37 @@
+* {
+    background-color: rgb(26, 26, 26);
+    color: antiquewhite;
+}
+
+.evanescense{
+
+    border:none;
+    background: url(Assets/cartman\ evanescence.jpg);
+    background-size: cover;
+    width: 130px;
+    height: 120px;
+}
+.pokerface{
+
+    border:none;
+    background: url(Assets/cartman\ pokerface.jpg);
+    background-size: cover;
+    width: 130px;
+    height: 120px;
+}
+.peaches{
+
+    border:none;
+    background: url(Assets/cartman\ peaches.jpg);
+    background-size: cover;
+    width: 130px;
+    height: 120px;
+}
+.howBadCanIBe{
+
+    border:none;
+    background: url(Assets/cartman\ HBCIB.jpg);
+    background-size: cover;
+    width: 130px;
+    height: 120px;
+}
